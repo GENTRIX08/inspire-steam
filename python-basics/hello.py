@@ -5,7 +5,7 @@ print("I am from Nairobi")
 # my hobbies
 print("I like to read novels,watch tv,doomscroll")
 
-age =  18
+age =  18 
 height = 1.25
 weight =  75
 
