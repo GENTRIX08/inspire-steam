@@ -17,6 +17,14 @@ for x in range(-180,180,30):
 for x in range(-180,180,30):
     print(f"cosine of {x} ={math.cos(x)} ")
 
+for x in range(-180,180,30):
+    print(math.sin(x))
+    print(math.cos(x))
+    print(math.tan(x))
+    print("----------------------")
+
+    
+
 
 
 
