@@ -18,12 +18,9 @@ for i in range(n):
     print(" " * (n - i - 1) + "*" * (2 * i + 1))
 
 
-import math
 
-a = float(input("Enter a: "))
-b = float(input("Enter b: "))
-c = float(input("Enter c: "))
+a = input("Enter value of a: ")
+b = input("Enter value of b: ")
+c = input("Enter value of c: ")
 
-print(f"\nQuadratic equation: {a}x^2 + {b}x + {c} = 0")
-
-d =
+print(f"{a}x^2 + {b}x + {c} = 0")
